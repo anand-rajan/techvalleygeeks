@@ -1,0 +1,52 @@
+[
+  {
+    "name": "ISP",
+    "parent": "null",
+    "children": [
+      {
+        "name": "magilchi_hall",
+        "parent": "ISP",
+        "children": [
+          {
+            "name": "Lenovo A801",
+            "parent": "Modem 1: modem name"
+          },{
+            "name": "HP Pavilion",
+            "parent": "Modem 1: modem name"
+          },{
+            "name": "Apple iPad 2.0",
+            "parent": "Modem 1: modem name"
+          },{
+            "name": "Sony Internet TV",
+            "parent": "Modem 1: modem name"
+          },{
+            "name": "Moto X Play",
+            "parent": "Modem 1: modem name"
+          },{
+            "name": "Dell Inspiron",
+            "parent": "Modem 1: modem name"
+          },{
+            "name": "Canon_Laser_Shot",
+            "parent": "Modem 1: modem name"
+          }
+        ]
+      },
+      {
+        "name": "magilchi_backyard",
+        "parent": "ISP",
+		"children": [
+          {
+            "name": "Honor 8210",
+            "parent": "Modem 2: modem name"
+          },{
+            "name": "Lenovo_yoga",
+            "parent": "Modem 2: modem name"
+          },{
+            "name": "La_miya 1800",
+            "parent": "Modem 2: modem name"
+          }
+		]  
+      }
+    ]
+  }
+]
